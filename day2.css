@@ -1,0 +1,12 @@
+h1{
+    background-color:rgba(51, 0, 58, 0.425);
+    color:rgb(40, 0, 44);
+    border:2px dashed rgb(80, 0, 90);
+    text-align: center;
+
+}
+body{
+    background-color: hsla(281, 100%, 92%, 0.993);
+    background-image: "https://www.bing.com/th?id=AMMS_S_b887ae1c-a543-f5f2-5a9b-5b4c3b2d1c2e&w=110&h=110&c=7&rs=1&qlt=95&pcl=f9f9f9&o=6&cdv=1&dpr=1.25&pid=16.1";
+    background-size: cover;
+}
