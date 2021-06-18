@@ -1,0 +1,32 @@
+}
+h2,h3,h4,h5,h6{
+    color:rgb(4, 3, 102);
+}
+
+
+
+img{
+    float:right;
+}
+/*cursor setting, profile blur, icons with click*/
+body{
+    /*background-color: rgb(204, 255, 255) ;
+    background-color: rgb(219, 249, 219) ;*/
+    background-color: rgba(0, 250, 154, 0.205) ;/*isn't working*/
+    color:rgb(52, 52, 77);
+}
+.boxmod
+{
+    display: inline-block;
+    border:2px solid blue;
+    border-radius: 50%;
+    padding:3px;
+    background-color: rgb(250, 255, 255);
+}
+.linkedin{
+    height:30px;
+}
+
+title{
+    color: cornflowerblue;
+}
