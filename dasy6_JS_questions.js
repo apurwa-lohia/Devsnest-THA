@@ -60,7 +60,15 @@
 // Sample array : var arr1=[3, 'a', 'a', 'a', 2, 3, 'a', 3, 'a', 2, 4, 9, 3];
 // Sample Output : a ( 5 times )
 var arr1=[3, 'a', 'a', 'a', 2, 3, 'a', 3, 'a', 2, 4, 9, 3];
-for(var i=1;i<=arr1.length();i++){
-    console.log(arr1=sort.arr1());
-
+arr1[]=sort.arr1[];
+var c=0;var d=0;var i=1;
+while(i<=arr1.length()){
+      if(arr1[i]===arr1[(i+1)]&&(c>=d))
+   {c++;i++;
+   }
+   else{d=c;i++;
+        continue;}
+}
+  console.log(c);
+   
 }
